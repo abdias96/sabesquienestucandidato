@@ -179,7 +179,7 @@
                     <!--p class="text-muted">Avanza</p-->
                 </div>
             </div>
-            <div class="col-md-3 col-sm-4 portfolio-item">
+            <!--div class="col-md-3 col-sm-4 portfolio-item">
                 <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal2">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -190,9 +190,8 @@
                 </a>
                 <div class="portfolio-caption">
                     <h4>Bienestar Nacional</h4>
-                    <!--p class="text-muted">Graphic Design</p-->
                 </div>
-            </div>
+            </div-->
             <div class="col-md-3 col-sm-4 portfolio-item">
                 <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal3">
                     <div class="portfolio-hover">
@@ -305,20 +304,19 @@
                     <!--p class="text-muted">Website Design</p-->
                 </div>
             </div>
-            <div class="col-md-3 col-sm-4 portfolio-item">
+            <!--div class="col-md-3 col-sm-4 portfolio-item">
                 <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/partidos/mr.png" alt="">
+                    <img class="img-fluid" src="img/partidos/podemos.png" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>MR</h4>
-                    <!--p class="text-muted">Website Design</p-->
+                    <h4>Podemos</h4>
                 </div>
-            </div>
+            </div-->
             <div class="col-md-3 col-sm-4 portfolio-item">
                 <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
                     <div class="portfolio-hover">
@@ -333,7 +331,7 @@
                     <!--p class="text-muted">Website Design</p-->
                 </div>
             </div>
-            <div class="col-md-3 col-sm-4 portfolio-item">
+            <!--div class="col-md-3 col-sm-4 portfolio-item">
                 <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -344,9 +342,8 @@
                 </a>
                 <div class="portfolio-caption">
                     <h4>PLG</h4>
-                    <!--p class="text-muted">Website Design</p-->
                 </div>
-            </div>
+            </div-->
             <div class="col-md-3 col-sm-4 portfolio-item">
                 <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
                     <div class="portfolio-hover">

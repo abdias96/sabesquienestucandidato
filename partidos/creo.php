@@ -57,29 +57,33 @@
         <div class="row">
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="../candidatos/julioestrada.php#disqus_thread">
+                </a>
+                <a class="portfolio-link text-center" href="../candidatos/julioestrada.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/partidos/avanza.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/juliohectorestrada.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Abdias Muñoz</h4>
+                    <h4>Julio Héctor Estrada Domínguez</h4>
                     <p class="text-muted">Candidato a presidente</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal2">
+                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php#disqus_thread">
+                </a>
+                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/partidos/bienestar.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/yaraargueta.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Abdias Muñoz</h4>
+                    <h4>Yara Emmanuella Argueta Castañeda</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>
                 </div>
             </div>
