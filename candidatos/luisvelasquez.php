@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Julio Hector Estrada Domínguez</title>
+    <title>Luis Antonio Velásquez Quiroa</title>
+    <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +44,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/unidos.php">Unidos</a>
                 </li>
             </ul>
         </div>
@@ -50,7 +59,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Julio Hector Estrada Domínguez</h2>
+                <h2 class="section-heading text-uppercase">Luis Antonio Velásquez Quiroa</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
@@ -58,14 +67,37 @@
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Julio Héctor Estrada, licenciado en economía egresado de la Universidad Francisco Marroquín –UFM–, cuenta con dos maestrías internacionales, un Master en Administración de Empresas, graduado de la Escuela de Negocios INSEAD (Francia) y una Maestría Ejecutiva en Liderazgo Global, en Suiza, por el Foro Económico Mundial (World Economic Forum) en asociación con INSEAD y Columbia University (USA).
+                    Cuenta con la Licenciatura en Administración de Empresas con Énfasis en Resolución de Conflictos, Miami Florida 2017 en la Universidad "Atlantic International" -AIU-.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Cuenta con más de 20 años de trabajo en consultorías y gerencia de proyectos de gestión, transformación y dirección. Dentro de su experiencia internacional se destaca como Director Adjunto para Latinoamérica del World Economic Forum, Suiza; con la con la firma consultora de alta dirección A.T. Kearney; y en el Departamento de Control de Riesgo de Citibank en Suiza. Localmente, ha sido Presidente Ejecutivo de empresas de Desarrollo Inmobiliario y de Exportación de Frutas en Guatemala. En la parte pública, ha sido Director Ejecutivo del Programa Nacional de Competitividad –PRONACOM– y Director Ejecutivo Fundador de la Agencia de Alianzas para el Desarrollo de Infraestructura Económica.
+                    Es egresado del Programa de Alta Gerencia INCAE, Costa Rica y Programa de Estudios Estratégicos Nacionales Centro ESTNA Ejército de Guatemala. Realizó estudios de Ingeniería en Sistemas en Universidad Francisco Marroquin de Guatemala. Bilingüe Español Ingles y comprende a nivel básico el Idioma Maya Quiche. Capacitaciones recibidas en varios países.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Fue Ministro de Finanzas Públicas de Guatemala de 2016 hasta el 13 de septiembre de 2018. Logrando entre otras la recuperación del orden financiero y la capacidad de cumplimiento de obligaciones del estado, eliminando prácticas como la de deuda flotante no registrada. El rescate administrativo de la autoridad tributaria y el posicionamiento de Guatemala como uno de los países con los procesos presupuestarios y de gestión de cuentas gubernamentales más abiertos de América Latina.  Cambios que se vieron reflejados en la disminución de la tasa de interés que el país paga en bonos nacionales y en dólares con records históricos en tasas normalmente solo asequibles a países con grado de inversión, ahorrando miles de millones de quetzales en servicio de la deuda pública y garantizando las bases para la estabilidad macroeconómica y fiscal, y la atracción de inversones que permiten un desarrollo ecónomico y generación de empleo.
-                    Julio Héctor habla además de español, inglés, alemán, portugués y un poco de francés. Vive en Guatemala con su esposa Corinne y dos hijos preadolescentes y es fanático del fútbol y de libros de historia.
+                    Han sido pilares fundamentales para su desarrollo personal, emprendedor, empresarial y miembro de Gabinete de Gobierno; su creencia en Dios, Valores espirituales, morales y su familia.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Miembro de la cuarta generación de familia Emprendedora. Con su preparación  y conocimientos adquiridos en puestos técnicos, gerenciales y directivos en el Sector Empresarial, en 1987 funda América Industries en Estados Unidos. En Guatemala en 1988 Industrias Internacionales, en 2000 Comercios Internacionales, en 2003 Maquisalud y en 1993 CONSULTORIA INTERNACIONAL www.consuinter.com, con el lema  “Enfoque Integral para la Competitividad Global”; brindando Asesorías, Capacitaciones, Agencia de Medios de Comunicación, Productora de TV, Radio, Digital y Medios Escritos; a diversas Empresas, Gremios e Instituciones a nivel Nacional e Internacional.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Para compartir su experiencia y conocimientos, en 2008 como parte de su RSE crea el programa INVERSION Y DESARROLLO con Luis Velásquez www.inversionydesarrolo.net actualmente transmitiéndose en 32 países en distintos canales de TV y en Internet, fomentado el Espíritu Emprendedor, Empresarialidad, Desarrollo Económico y Social; trasladando temas de interés, promoviendo el involucramiento y el compromiso de asumir nuevos retos para el Desarrollo Integral.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En Enero 2008, comprometido con valores morales, como transparencia, honestidad y desarrollo integral de Guatemala, asumió el desafío de la gestión pública por 4 años, ocupando los cargos de: Asesor de la Presidencia en Desarrollo Económico y Social,  Negociación y Resolución de Conflictos, Secretario de Asuntos Específicos de la Presidencia, Secretario de Coordinación Ejecutiva de la Presidencia y Ministro de Economía de la República de Guatemala.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ha realizado visitas empresariales y gubernamentales a 45 países en 4 Continentes. Ha recorrido todos los Municipios de Guatemala y más del 40% de las Comunidades Rurales de toda la República. Participa en Juntas Directivas Empresariales y Gremiales. Fue Presidente del Consejo Directivo de la Organización para la Cultura de Calidad Total (OCCT). Fue Presidente y actualmente es Director de Junta Directiva de Empresarios Juveniles de Guatemala (parte de Junior Achievement Worldwide).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Miembro del Comité Organizador el 5to Foro Mundial de Empresarios Indígenas en 2014, es miembro promotor de la creación y expansión de la Red Global de Empresarios Indígenas para promover el Desarrollo Económico y Social. Miembro del Consejo Consultivo de la Fundación Esquipulas junto a varios Ex Presidentes de América Latina y Caribe.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Conferencista Internacional. Miembro de la Asociación Mundial de Consultores Políticos. Profesor permanente en el Curso de Altos Estudios Estratégicos en el Comando Superior del Ejército de Guatemala (COSEDE).  Ha impartido cursos en Carreras Universitarias y Maestrías.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Realizó su reserva militar conforme la ley. Curso de supervivencia Kaibil para civiles en las Fuerzas Especiales Elite Kaibil del Ejército de Guatemala.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Apoya y promueve proyectos de Integración Regional, Responsabilidad Social Empresarial (RSE), Espíritu Emprendedor, Empresarialidad, Competitividad Global, Desarrollo Económico Local (DEL), Proyectos Productivos en Comunidades Rurales, Innovación, Tecnología, Turismo, Educación,  Energía, Comercio Internacional, Aprovechamiento de Recursos Naturales, Planificación Estratégica, Gestión de Calidad, Propiedad Intelectual, Acceso a Medicamentos e Insumos Agrícolas, Desarrollo Integral (Económico, Rural, Social, Comunitario e Indígena), Políticas Publicas para el Desarrollo, Negociación y Resolución de Conflictos entre otros.
                 </p>
             </div>
         </div>
@@ -77,8 +109,8 @@
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = candidatos/julioestrada.php;  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = julioestrada; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/luisvelasquez.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "luisvelasquez"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE
@@ -132,6 +164,8 @@
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>

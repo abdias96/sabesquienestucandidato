@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Julio Hector Estrada Domínguez</title>
+    <title>Alejandro Eduardo Giammattei Falla</title>
+    <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +44,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/vamos.php">Vamos</a>
                 </li>
             </ul>
         </div>
@@ -50,7 +59,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Julio Hector Estrada Domínguez</h2>
+                <h2 class="section-heading text-uppercase">Alejandro Eduardo Giammattei Falla</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
@@ -58,14 +67,19 @@
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Julio Héctor Estrada, licenciado en economía egresado de la Universidad Francisco Marroquín –UFM–, cuenta con dos maestrías internacionales, un Master en Administración de Empresas, graduado de la Escuela de Negocios INSEAD (Francia) y una Maestría Ejecutiva en Liderazgo Global, en Suiza, por el Foro Económico Mundial (World Economic Forum) en asociación con INSEAD y Columbia University (USA).
+                    Alejandro Eduardo Giammattei Falla (Guatemala, 9 de marzo 1956) es un médico y político guatemalteco. Se desempeñó como el director del Sistema Penitenciario de Guatemala en 2006 (Elecciones de Guatemala, 2011).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Cuenta con más de 20 años de trabajo en consultorías y gerencia de proyectos de gestión, transformación y dirección. Dentro de su experiencia internacional se destaca como Director Adjunto para Latinoamérica del World Economic Forum, Suiza; con la con la firma consultora de alta dirección A.T. Kearney; y en el Departamento de Control de Riesgo de Citibank en Suiza. Localmente, ha sido Presidente Ejecutivo de empresas de Desarrollo Inmobiliario y de Exportación de Frutas en Guatemala. En la parte pública, ha sido Director Ejecutivo del Programa Nacional de Competitividad –PRONACOM– y Director Ejecutivo Fundador de la Agencia de Alianzas para el Desarrollo de Infraestructura Económica.
+                    Giammattei se graduó de Médico y Cirujano de la Universidad de San Carlos de Guatemala en 1980. Ha trabajado como consultor temporal de la Organización Panamericana de la Salud -entre los años 1982 y 1986-, fue parte del Cuerpo de Bomberos Municipales de Guatemala. En 1986 fue director de Transportes Públicos Urbanos de la Municipalidad de Guatemala y gerente de la Empresa Municipal de Agua en 1991 (Elecciones Guatemala, 2011).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Fue Ministro de Finanzas Públicas de Guatemala de 2016 hasta el 13 de septiembre de 2018. Logrando entre otras la recuperación del orden financiero y la capacidad de cumplimiento de obligaciones del estado, eliminando prácticas como la de deuda flotante no registrada. El rescate administrativo de la autoridad tributaria y el posicionamiento de Guatemala como uno de los países con los procesos presupuestarios y de gestión de cuentas gubernamentales más abiertos de América Latina.  Cambios que se vieron reflejados en la disminución de la tasa de interés que el país paga en bonos nacionales y en dólares con records históricos en tasas normalmente solo asequibles a países con grado de inversión, ahorrando miles de millones de quetzales en servicio de la deuda pública y garantizando las bases para la estabilidad macroeconómica y fiscal, y la atracción de inversones que permiten un desarrollo ecónomico y generación de empleo.
-                    Julio Héctor habla además de español, inglés, alemán, portugués y un poco de francés. Vive en Guatemala con su esposa Corinne y dos hijos preadolescentes y es fanático del fútbol y de libros de historia.
+                    Se postuló como candidato a alcalde en 1999 y en 2003. Fue director del Sistema Penitenciario en 2006 y candidato presidencial en las elecciones de 2007 -por el partido –Gran Alianza Nacional– (Elecciones Guatemala, 2011).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Giammattei fue incriminado en el Caso Pavón en 2006, por el cual tuvo un largo proceso y fue encarcelado por 10 meses de prisión preventiva en el cuartel militar Mariscal Zabala, por la supuesta ejecución extrajudicial de siete reos, cuando era director del Sistema Penitenciario (Noticias.com, 2011).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En las elecciones de  2011, pocos días antes de vencer el plazo para la inscripción de candidatos en el Registro de Ciudadanos el partico Centro de Acción Social -CASA- anunció la candidatura presidencial de Alejandro Giammattei, y como candidato vicepresidencial a Óscar Alberto Zamora Solano. CASA obtuvo 46 875 votos en la elección presidencial y por no lograr superar el 5% de los votos válidos emitidos, el partido fue cancelado (Asies, 2012).
                 </p>
             </div>
         </div>
@@ -77,8 +91,8 @@
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = candidatos/julioestrada.php;  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = julioestrada; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/alejandrogiammattei.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "alejandrogiammattei"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE
@@ -132,6 +146,8 @@
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>

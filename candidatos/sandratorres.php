@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Julio Hector Estrada Domínguez</title>
+    <title>Sandra Julieta Torres Casanova</title>
+    <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +44,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/une.php">UNE</a>
                 </li>
             </ul>
         </div>
@@ -50,7 +59,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Julio Hector Estrada Domínguez</h2>
+                <h2 class="section-heading text-uppercase">Sandra Julieta Torres Casanova</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
@@ -58,14 +67,30 @@
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Julio Héctor Estrada, licenciado en economía egresado de la Universidad Francisco Marroquín –UFM–, cuenta con dos maestrías internacionales, un Master en Administración de Empresas, graduado de la Escuela de Negocios INSEAD (Francia) y una Maestría Ejecutiva en Liderazgo Global, en Suiza, por el Foro Económico Mundial (World Economic Forum) en asociación con INSEAD y Columbia University (USA).
+                    Sandra Julieta Torres Casanova (Melchor de Mencos, Petén, -Guatemala-, 5 de octubre de 1955) es una política guatemalteca (Cardona, 2011), ex esposa del presidente de Guatemala Álvaro Colom (2008-2012). Es la secretaria general del partido Unidad Nacional de la Esperanza -UNE- y fue candidata presidencial en las elecciones de 2015 por el mismo partido (Barreto, 2014).
+                </p>
+                <h4 class="service-heading">Biografía</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Torres es hija de Enrique Torres y Teresa Casanova quien fue alcaldesa de Melchor de Mencos. Es la cuarta de cinco hermanos. Vivió en Belice, por eso habla inglés desde pequeña. Torres es madre de cuatro hijos (Cardona, 2011).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Cuenta con más de 20 años de trabajo en consultorías y gerencia de proyectos de gestión, transformación y dirección. Dentro de su experiencia internacional se destaca como Director Adjunto para Latinoamérica del World Economic Forum, Suiza; con la con la firma consultora de alta dirección A.T. Kearney; y en el Departamento de Control de Riesgo de Citibank en Suiza. Localmente, ha sido Presidente Ejecutivo de empresas de Desarrollo Inmobiliario y de Exportación de Frutas en Guatemala. En la parte pública, ha sido Director Ejecutivo del Programa Nacional de Competitividad –PRONACOM– y Director Ejecutivo Fundador de la Agencia de Alianzas para el Desarrollo de Infraestructura Económica.
+                    Es licenciada en Comunicación Social por la Universidad de San Carlos de Guatemala y tiene una maestría en Políticas Públicas de la Universidad Rafael Landívar (UNE Sacatepéquez, s.f.).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Fue Ministro de Finanzas Públicas de Guatemala de 2016 hasta el 13 de septiembre de 2018. Logrando entre otras la recuperación del orden financiero y la capacidad de cumplimiento de obligaciones del estado, eliminando prácticas como la de deuda flotante no registrada. El rescate administrativo de la autoridad tributaria y el posicionamiento de Guatemala como uno de los países con los procesos presupuestarios y de gestión de cuentas gubernamentales más abiertos de América Latina.  Cambios que se vieron reflejados en la disminución de la tasa de interés que el país paga en bonos nacionales y en dólares con records históricos en tasas normalmente solo asequibles a países con grado de inversión, ahorrando miles de millones de quetzales en servicio de la deuda pública y garantizando las bases para la estabilidad macroeconómica y fiscal, y la atracción de inversones que permiten un desarrollo ecónomico y generación de empleo.
-                    Julio Héctor habla además de español, inglés, alemán, portugués y un poco de francés. Vive en Guatemala con su esposa Corinne y dos hijos preadolescentes y es fanático del fútbol y de libros de historia.
+                    Fue gerente de maquilas y empresas de cosméticos (García, 2015).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Torres se casó en dos ocasiones. La primera vez se casó con Edgar Augusto de León Sotomayor, con quien fundo el partido Desarrollo Integral Auténtico. La segunda vez contrajo matrimonio con el expresidente de la República de Guatemala, Álvaro Colom (Cardona, 2011).
+                </p>
+                <h4 class="service-heading">Trayectoria política</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Torres es una de las fundadoras del Partido Unidad Nacional de la Esperanza -UNE-. Dentro de la agrupación fundó la Coordinadora Nacional de la Mujer de la UNE. También fue Coordinadora del Consejo de Cohesión Social durante el gobierno de su esposo Álvaro Colom, coordinadora que implementó el programa de transferencias condicionadas Mi Familia Progresa, Bolsa Solidaria y Comedores Solidarios (García, 2015).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En abril del 2011 se divorció de Colom, supuestamente para poder postularse a candidata oficial para la presidencia en las elecciones de 2011, con la coalición UNE-GANA, pero el Tribunal Supremo Electoral -TSE- le negó la inscripción con el argumento de que incurrió en fraude de ley al divorciarse. La ley guatemalteca prohíbe que participe en una elección un familiar cercano al presidente (Cardona, 2011).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En las elecciones generales realizadas en Guatemala el 6 de septiembre de 2015, el binomio presidencial formado por Torres para presidente y Mario Leal para vicepresidente por el partido Unidad Nacional de la Esperanza -UNE-, obtuvieron 948,809 de votos, el 19.76%, ubicándose en el segundo lugar de las preferencias del electorado. Debido a que ninguno de los candidatos alcanzó más del 50%, fue necesario una segunda vuelta entre Torres y el candidato de FCN-Nación, Jimmy Morales. En ésta ocasión la UNE nuevamente quedó en segundo lugar con 1,328,381 votos, el 32.56% de votos válidos (Quintela,2015).
                 </p>
             </div>
         </div>
@@ -77,8 +102,8 @@
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = candidatos/julioestrada.php;  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = julioestrada; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/sandratorres.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "sandratorres"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE
@@ -132,6 +157,8 @@
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>

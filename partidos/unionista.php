@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>AVANZA</title>
+    <title>UNIONISTA</title>
+    <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -30,7 +36,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -38,7 +44,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
                 </li>
             </ul>
         </div>
@@ -56,34 +62,34 @@
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="../candidatos/daniloroca.php#disqus_thread">
+                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/pabloduarte.php#disqus_thread" data-disqus-identifier="pabloduarte">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/daniloroca.php">
+                <a class="portfolio-link text-center" href="#">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/daniloroca.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/pabloduarte.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Daniel Julián Roca Barillas</h4>
+                    <h4>Pablo Manuel Duarte Saenz De Tejada</h4>
                     <p class="text-muted">Candidato a presidente</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="../candidatos/manuelmartinez.php#disqus_thread">
+                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/robertovilleda.php#disqus_thread" data-disqus-identifier="robertovilleda">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/manuelmartinez.php">
+                <a class="portfolio-link text-center" href="#">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/manuelmartinez.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/robertovilleda.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Manuel María Martínez Revolorio</h4>
+                    <h4>Roberto Villeda Arguedas</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>
                 </div>
             </div>

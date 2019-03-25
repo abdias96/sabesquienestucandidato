@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Julio Hector Estrada Domínguez</title>
+    <title>Zury Mayté Ríos Sosa</title>
+    <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +44,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/valor.php">Valor</a>
                 </li>
             </ul>
         </div>
@@ -50,7 +59,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Julio Hector Estrada Domínguez</h2>
+                <h2 class="section-heading text-uppercase">Zury Mayté Ríos Sosa</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
@@ -58,14 +67,40 @@
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Julio Héctor Estrada, licenciado en economía egresado de la Universidad Francisco Marroquín –UFM–, cuenta con dos maestrías internacionales, un Master en Administración de Empresas, graduado de la Escuela de Negocios INSEAD (Francia) y una Maestría Ejecutiva en Liderazgo Global, en Suiza, por el Foro Económico Mundial (World Economic Forum) en asociación con INSEAD y Columbia University (USA).
+                    Zury Ríos (Guatemala, 1968) es una catedrática, conferencista y política guatemalteca y candidata presidencial  (De León, 2014).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Cuenta con más de 20 años de trabajo en consultorías y gerencia de proyectos de gestión, transformación y dirección. Dentro de su experiencia internacional se destaca como Director Adjunto para Latinoamérica del World Economic Forum, Suiza; con la con la firma consultora de alta dirección A.T. Kearney; y en el Departamento de Control de Riesgo de Citibank en Suiza. Localmente, ha sido Presidente Ejecutivo de empresas de Desarrollo Inmobiliario y de Exportación de Frutas en Guatemala. En la parte pública, ha sido Director Ejecutivo del Programa Nacional de Competitividad –PRONACOM– y Director Ejecutivo Fundador de la Agencia de Alianzas para el Desarrollo de Infraestructura Económica.
+                    Es hija del ex militar y jefe de Estado de facto de Guatemala entre 1982 y 1983, José Efraín Ríos Montt (De León, 2014).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Fue Ministro de Finanzas Públicas de Guatemala de 2016 hasta el 13 de septiembre de 2018. Logrando entre otras la recuperación del orden financiero y la capacidad de cumplimiento de obligaciones del estado, eliminando prácticas como la de deuda flotante no registrada. El rescate administrativo de la autoridad tributaria y el posicionamiento de Guatemala como uno de los países con los procesos presupuestarios y de gestión de cuentas gubernamentales más abiertos de América Latina.  Cambios que se vieron reflejados en la disminución de la tasa de interés que el país paga en bonos nacionales y en dólares con records históricos en tasas normalmente solo asequibles a países con grado de inversión, ahorrando miles de millones de quetzales en servicio de la deuda pública y garantizando las bases para la estabilidad macroeconómica y fiscal, y la atracción de inversones que permiten un desarrollo ecónomico y generación de empleo.
-                    Julio Héctor habla además de español, inglés, alemán, portugués y un poco de francés. Vive en Guatemala con su esposa Corinne y dos hijos preadolescentes y es fanático del fútbol y de libros de historia.
+                    Ríos nació en el hogar de José Efraín Ríos Montt y de  María Teresa Sosa de Ríos. Se casó con el estadounidense Jerry Weller y tiene una hija (De León, 2014). Estuvo casada con Roberto López Villatoro.
+                </p>
+                <h4 class="service-heading">Estudios realizados</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Es maestra de educación primaria por el Colegio Verbo. De la Universidad Francisco Marroquín tiene un Diplomado en Ciencias Poíticas, un Profesorado en Literatura y Ciencias Sociales  y una Licenciatura en Ciencias Políticas y Sociales. Magna Cum Laude (Acerca de Zury, 2013).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Posee un Magíster Artium en Ciencias Políticas con Especialización en Desarrollo Legislativo de la Universidad Mariano Gálvez (Mendoza, 2015).
+                </p>
+                <h4 class="service-heading">Trayectoria política</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Perteneció al desaparecido partido Frente Republicano Guatemalteco -FRG- e integró del Consejo Político y Comité Ejecutivo en 1998. Ríos fue diputada al Congreso de la República de Guatemala por el FRG durante cuatro períodos legislativos, de 1996 a 2012. (Acerca de Zury, 2013).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Durante sus años de legisladora impulsó varios proyectos de ley, entre los que se encuentran: la Ley que declara de interés social y necesidad pública la Educación de la Mujer Adulta sin discriminación alguna, Ley de Adopciones, Ley contra el Femicidio y otras Formas de Violencia contra la Mujer, Ley de Desarrollo Social, Ley General para el combate del Virus del Inmunodeficiencia Humana -VIH- y del Síndrome de Inmunodeficiencia Adquirida -SIDA-, Ley contra la Violencia Sexual, Explotación y Trata de Personas, la Ley de Acceso Universal y Equitativo de servicios de Planificación Familiar y la Ley de Creación de ambientes libres de humo de tabaco, entre otras (Poderosas.Org., s.f.).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Siendo parlamentaria ocupó secretarías en diferentes Juntas Directivas del Congreso. También fue presidenta de la comisión de Relaciones Exteriores y llegó a ser también segunda vicepresidenta del Congreso (Poderosas.Org., s.f.).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ha sido catedrática universitaria y consultora de Agencias Internacionales y conferencista en temas de Salud y Género (Mendoza, 2015).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ríos Sosa junto a Cromwell Cuestas fueron los candidatos a presidente y vicepresidente respectivamente del Partido Visión con Valores -VIVA-, para las elecciones generales del 6 de septiembre de 2015, en la cuales obtuvieron el 5.97% de los votos válidos, el binomio obtuvo un total de 286,730 votos, ubicándose en el quinto lugar de las preferencias del electorado (Sánchez, 2015).
+                </p>
+                <h4 class="service-heading">Reconocimientos</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Ríos ha recibido varias condecoraciones, el Premio Dr. Salvador Aguado Andreut, Premio Doctor Armando de la Torre, Medalla de Honor de la IPPF-RHO, Órden de la Estrella Brillante en grado de Gran Cordón, Órden a la Excelencia Laboral, Órden Bernardo O´Higgins en grado de Gran Oficial y varios reconocimientos (Poderosas.Org., s.f.).
                 </p>
             </div>
         </div>
@@ -77,8 +112,8 @@
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = candidatos/julioestrada.php;  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = julioestrada; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/zuryrios.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "zuryrios"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE
@@ -132,6 +167,8 @@
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>

@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +13,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Julio Hector Estrada Domínguez</title>
+    <title>Amílcar Rivera Estévez</title>
+    <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +44,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/victoria.php">Victoria</a>
                 </li>
             </ul>
         </div>
@@ -50,7 +59,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Julio Hector Estrada Domínguez</h2>
+                <h2 class="section-heading text-uppercase">Amílcar Rivera Estévez</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
@@ -58,14 +67,19 @@
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Julio Héctor Estrada, licenciado en economía egresado de la Universidad Francisco Marroquín –UFM–, cuenta con dos maestrías internacionales, un Master en Administración de Empresas, graduado de la Escuela de Negocios INSEAD (Francia) y una Maestría Ejecutiva en Liderazgo Global, en Suiza, por el Foro Económico Mundial (World Economic Forum) en asociación con INSEAD y Columbia University (USA).
+                    Amílcar Rivera es un político guatemalteco, exalcalde del municipio de Mixco del departamento de Guatemala, por el Partido Patriota, en los períodos 2004-2008 y 2008-2012  (Asies, 2012).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Cuenta con más de 20 años de trabajo en consultorías y gerencia de proyectos de gestión, transformación y dirección. Dentro de su experiencia internacional se destaca como Director Adjunto para Latinoamérica del World Economic Forum, Suiza; con la con la firma consultora de alta dirección A.T. Kearney; y en el Departamento de Control de Riesgo de Citibank en Suiza. Localmente, ha sido Presidente Ejecutivo de empresas de Desarrollo Inmobiliario y de Exportación de Frutas en Guatemala. En la parte pública, ha sido Director Ejecutivo del Programa Nacional de Competitividad –PRONACOM– y Director Ejecutivo Fundador de la Agencia de Alianzas para el Desarrollo de Infraestructura Económica.
+                    Amílcar Rivera fue electo como funcionario en las elecciones municipales de 2003 y reemplazó en 2004 a su padre en el cargo, Abraham Rivera Sagastume, quien ocupaba el puesto desde 2000.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Fue Ministro de Finanzas Públicas de Guatemala de 2016 hasta el 13 de septiembre de 2018. Logrando entre otras la recuperación del orden financiero y la capacidad de cumplimiento de obligaciones del estado, eliminando prácticas como la de deuda flotante no registrada. El rescate administrativo de la autoridad tributaria y el posicionamiento de Guatemala como uno de los países con los procesos presupuestarios y de gestión de cuentas gubernamentales más abiertos de América Latina.  Cambios que se vieron reflejados en la disminución de la tasa de interés que el país paga en bonos nacionales y en dólares con records históricos en tasas normalmente solo asequibles a países con grado de inversión, ahorrando miles de millones de quetzales en servicio de la deuda pública y garantizando las bases para la estabilidad macroeconómica y fiscal, y la atracción de inversones que permiten un desarrollo ecónomico y generación de empleo.
-                    Julio Héctor habla además de español, inglés, alemán, portugués y un poco de francés. Vive en Guatemala con su esposa Corinne y dos hijos preadolescentes y es fanático del fútbol y de libros de historia.
+                    El político es hijo de Rivera Sagastume y hermano de Juan Carlos y Abraham Rivera, quienes fueron diputados al Congreso de Guatemala para el período 2008-2012, al igual que su padre, representando al mismo Partido Patriota  -PP- (Asies, 2012).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Los legisladores abandonaron el PP y fundaron el Partido Victoria en noviembre de 2010. Amílcar Rivera se postuló como candidato a la alcaldía de Mixco para las elecciones generales de 2011 por el partido Victoria (Asies, 2012), pero perdió los comicios a manos de Otto Pérez Leal.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En julio de 2014,  Rivera se unió a la agrupación Libertad Democrática Renovada -LIDER- y fue nombrado encargado de la coordinación municipal del partido en Mixco, además de candidato  a alcalde de este municipio, para las elecciones de septiembre de 2015 (Nación, 2014). Finalmente, los sufragios fueron ganados por Neto Bran.
                 </p>
             </div>
         </div>
@@ -77,8 +91,8 @@
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = candidatos/julioestrada.php;  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = julioestrada; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/amilcarrivera.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "amilcarrivera"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE
@@ -132,6 +146,8 @@
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>
