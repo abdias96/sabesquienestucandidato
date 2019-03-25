@@ -13,7 +13,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Yara Emmanuella Argueta Castañeda</title>
+    <title>Manfredo Marroquín</title>
     <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
@@ -47,7 +47,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
                     <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/creo.php">Creo</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/encuentro.php">Encuentro</a>
                 </li>
             </ul>
         </div>
@@ -59,33 +59,44 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Yara Emmanuella Argueta Castañeda</h2>
+                <h2 class="section-heading text-uppercase">Manfredo Marroquín</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
         <div class="row text-center">
             <div class="col-md-12 comment">
-                <!--h4 class="service-heading">E-Commerce</h4-->
+                <h4 class="service-heading">Resumen</h4>
                 <p class="text-muted" style="text-align: justify;">
-                    Durante 11 años fue CEO de Grupo Solid, empresa líder en el mercado de Pinturas y Recubrimientos en Centroamérica y Panamá.  Sus operaciones incluyen fuerza de ventas, red de distribución y bodegas en la región, y dos plantas de manufactura en Guatemala.  Grupo Solid tiene una amplia red de distribución de más de 6,400 ferreterías independientes CORONA, 80 tiendas propias de pintura PALETA, atiende a las 658 empresas más importantes que operan en la región a través del canal SYTEC Business to Business, y exporta sus productos a Belice, Sur de México y el Caribe.  Grupo Solid cuenta con 1,500 colaboradores.  Durante su gestión como CEO, Grupo Solid llegó a ser líder en el mercado centroamericano, alcanzando niveles de rentabilidad de talla mundial.
+                    Profesional orientado y enfocado en asuntos de intereses políticos y sociales por más de treinta años de vida profesional. Destacada participación en la fundación y crecimiento de organizaciones sociales de gran proyección nacional. En los años ochenta analista político de medios relevantes como Inforpress Centroamericano, Incep, Fades, entre otros. En 1996, funda Acción Ciudadana desde donde proyecta la lucha por la transparencia y contra la corrupción cuando este ni siquiera era reconocido como un problema nacional.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    En marzo del 2016 Yara decide retirarse como CEO pasando a formar parte de la Junta Directiva de la misma Corporación como director independiente, y a cargo de los proyectos de fusiones, adquisiciones y expansión, como asesor externo.  También apoya a otras empresas e instituciones en sus procesos estratégicos y proyectos específicos.
+                    Creador de la primera y todavía más importante red de observación electoral nacional en 2003, denominada Mirador Electoral desde donde se promovieron las primeras reformas electorales ocurridas en el 2004 y se reportan los abusos y violaciones al régimen electoral.
+                </p>
+                <h4 class="service-heading">Logros Profesionales</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Como Presidente de la Junta Directiva de Acción Ciudadana y Fundador, puso en el debate nacional el primer estudio sobre la corrupción en Guatemala (1996); participo como creador de la red regional de Transparencia Internacional, convirtiendo a la organización en el primer capítulo de TI en la región.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    En el 2015 creó la Fundación CAVIDA – Cambio de Vida, la cual otorga financiamiento a jóvenes talentosos de escasos recursos, pagando el costo de sus estudios y brindándoles la oportunidad de graduarse en las mejores universidades nacionales y del extranjero.  Actualmente Yara dedica parte de su tiempo al crecimiento de CAVIDA.
+                    A nivel regional fue el encargado de abrir capítulos en Centroamérica y organizar la primera Conferencia Internacional Contra la Corrupción en el 2006, con la participación de los presidentes de Centro América.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Yara fue nombrada Young Global Leader (Joven Líder Mundial) por el World Economic Forum – WEF (Foro Económico Mundial) en el 2011.  Fue reconocida como una de las cinco mujeres más admiradas en Centro América por la revista de negocios Estrategia y Negocios, por tres años consecutivos (2008, 2009 y 2010) y como una de las mujeres más poderosas de Centroamérica por la revista Forbes Centroamérica en 2015 y 2016.  Nombrada Profesional Distinguida del Año 2013 por INCAE Business School.
+                    Propuso el primer borrador de la Ley de Acceso a la Información en el año 2001, la cual fue finalmente aprobada en el 2008, después de años de cabildeo e incidencia.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Directora del Consejo de Fiduciarios de la Fundación para El Desarrollo de Guatemala – FUNDESA.  Miembro del Central America Leadership Initiative – CALI /Aspen Global Network (Iniciativa de Liderazgo Centroamericano). Presidente y mentora del capítulo Voces Vitales Guatemala (2015 y 2016).  Miembro del Comité Nacional de INCAE Business School en Guatemala.  Miembro del Group of Fifty Millennium Leader – ML50 (2011 y 2012). Directora de Ingeniería Industrial de la Universidad Rafael Landívar (2004-2005) y catedrática de administración de empresas y mercadeo (2000 a 2003).  Delegada ante el Tribunal Supremo Electoral / Junta Electoral Distrito Central, en las últimas cuatro elecciones, manejando el Centro de Votación más grande del departamento de Guatemala.
+                    Promotor y defensor del portal electrónico de compras gubernamental (Guatecompras); fundador del primer centro de asesoría legal para ciudadanos sobre actos de corrupción (ALAC) que ha realizado cientos de denuncias varias de las cuales han concluido con sentencias de funcionarios involucrados.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Yara tiene un MBA de Incae Business School con Alta Distinción y Valedictor, y es Ingeniera Industrial de la Universidad Rafael Landívar, Summa Cum Laude.  Otros estudios realizados en Harvard Kennedy School y en Stanford Graduate School of Business.
+                    Directivo y fundador de otras redes regionales como la Alianza para la libertad de Expresión y Acceso a la información junto al actual Relator de la Libertad de Expresión, Edison Lanza; del Acuerdo de Lima cuya presidencia ejercí hasta el año 2017 que reúne a las organizaciones más destacadas de América Latina que realizan observación nacional; fundador de GNDEM la red global que reúne a las organizaciones civiles de los cinco continentes que realizan observación electoral; coordinador del Conteo Rápido que se realiza en cada elección desde el año 2003.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Yara es soltera, Guatemalteca y tiene 42 años.
+                    Creador de varios espacios interinstitucionales como la Alianza Institucional por la Transparencia que reúne a los entes de control y fiscalización en la búsqueda de una mejor coordinación y desempeño; fundador de la Red de Integridad y Cumplimiento Empresarial que aglutina a empresas comprometidas con la implementación de programas de cumplimiento y anticorrupción.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Columnista semanal del diario El Periódico; editor de más de cien publicaciones sobre Transparencia y lucha contra la Corrupción publicados por Acción Ciudadana. Conferencista invitado sobre temas de Observación Electoral, Transparencia, Lucha contra la Corrupción.
+                </p>
+                <h4 class="service-heading">Educación</h4>
+                <p class="text-muted" style="text-align: justify;">
+                    Licenciatura en Ciencias Políticas y Sociales de la Universidad Rafael Landívar.
                 </p>
             </div>
         </div>
@@ -97,8 +108,8 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = "https://sabesquienestucandidato.com/candidatos/yaraargueta.php";  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = "yaraargueta"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/manfredomarroquin.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "manfredomarroquin"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE

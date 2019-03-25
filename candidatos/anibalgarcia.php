@@ -13,7 +13,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CREO</title>
+    <title>Rodolfo Aníbal García Hernández</title>
     <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
@@ -36,7 +36,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -45,6 +45,9 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
                     <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/libre.php">Libre</a>
                 </li>
             </ul>
         </div>
@@ -56,44 +59,51 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Candidatos</h2>
-                <!--h3 class="section-subheading text-muted">Clickea encima para ver la información.</h3-->
+                <h2 class="section-heading text-uppercase">Rodolfo Aníbal García Hernández</h2>
+                <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/julioestrada.php#disqus_thread" data-disqus-identifier="julioestrada">
-                </a>
-                <a class="portfolio-link text-center" href="../candidatos/julioestrada.php">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fas fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img class="img-fluid" src="../img/candidatos/juliohectorestrada.jpg" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Julio Héctor Estrada Domínguez</h4>
-                    <p class="text-muted">Candidato a presidente</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/yaraarguera.php#disqus_thread" data-disqus-identifier="yaraargueta">
-                </a>
-                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fas fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img class="img-fluid" src="../img/candidatos/yaraargueta.jpg" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Yara Emmanuella Argueta Castañeda</h4>
-                    <p class="text-muted">Candidato a vicepresidente</p>
-                </div>
+        <div class="row text-center">
+            <div class="col-md-12 comment">
+                <!--h4 class="service-heading">E-Commerce</h4-->
+                <p class="text-muted" style="text-align: justify;">
+                    Rodolfo Aníbal García Hernández es un político guatemalteco. Exdiputado al Congreso de la República de Guatemala. Es el Secretario General del partido Movimiento Nueva República -MNR- (Redacción Web, 2015).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    García fue electo diputado al Congreso de la República, por el Distrito Central para el período 2008 – 2012 (Congreso de la República. 2015).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Fue el fundador del partido Movimiento Nueva República en el 2009 y el Tribunal Supremo Electoral -TSE- legalizó la inscripción del MNR como partido en mayo de 2012. El partido se define como democrático, pluricultural, multiétnico, revolucionario, progresista, incluyente, de la nueva izquierda  (Redacción, Web).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    El 29 de mayo de 2011 la URNG proclamó al binomio presidencial integrado por Rigoberta Menchú de WINAQ y Aníbal García, del MNR -en ese entonces comité pro formación-, como candidatos a presidente y vicepresidente respetivamente. El binomio alcanzó 3.26 % de los votos válidos (Asies, 2012).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Para las elecciones generales del 6 de septiembre de 2015 el partido MNR obtuvo el 0.59% de los votos válidos en la elección presidencial, el binomio formado por Anibal García y Pedro Rafael Maldonado Flores obtuvieron 28,383 votos (Sánchez, 2015).
+                </p>
             </div>
         </div>
+        <div id="disqus_thread"></div>
+        <script>
+
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+            var disqus_config = function () {
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/anibalgarcia.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "anibalgarcia"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+
+            (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = 'https://sabesquienestucandidato.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
     </div>
 </section>
 
@@ -136,10 +146,12 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Plugin JavaScript -->
 <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
@@ -150,7 +162,6 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 
 <!-- Custom scripts for this template -->
 <script src="../js/agency.min.js"></script>
-<script id="dsq-count-scr" src="//sabesquienestucandidato.disqus.com/count.js" async></script>
 
 </body>
 

@@ -13,7 +13,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CREO</title>
+    <title>Estuardo Ernesto Galdámez Juárez</title>
     <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
@@ -36,7 +36,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -45,6 +45,9 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
                     <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/fcn.php">FCN</a>
                 </li>
             </ul>
         </div>
@@ -56,44 +59,54 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Candidatos</h2>
-                <!--h3 class="section-subheading text-muted">Clickea encima para ver la información.</h3-->
+                <h2 class="section-heading text-uppercase">Estuardo Ernesto Galdámez Juárez</h2>
+                <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/julioestrada.php#disqus_thread" data-disqus-identifier="julioestrada">
-                </a>
-                <a class="portfolio-link text-center" href="../candidatos/julioestrada.php">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fas fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img class="img-fluid" src="../img/candidatos/juliohectorestrada.jpg" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Julio Héctor Estrada Domínguez</h4>
-                    <p class="text-muted">Candidato a presidente</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/yaraarguera.php#disqus_thread" data-disqus-identifier="yaraargueta">
-                </a>
-                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fas fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img class="img-fluid" src="../img/candidatos/yaraargueta.jpg" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Yara Emmanuella Argueta Castañeda</h4>
-                    <p class="text-muted">Candidato a vicepresidente</p>
-                </div>
+        <div class="row text-center">
+            <div class="col-md-12 comment">
+                <!--h4 class="service-heading">E-Commerce</h4-->
+                <p class="text-muted" style="text-align: justify;">
+                    Estuardo Ernesto Galdámez Juárez (Guatemala, 9 de febrero de 1966) es un militar, político y diputado guatemalteco. Fue nombrado diputado al Congreso de la República de Guatemala, por el Partido Patriota -PP-, para el período del 14 de enero 2016 al 14 de enero de 2020 (Congreso de la República, 2016).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Excapitán del Ejército de Guatemala. Fue egresado de la Promoción 108 de la Escuela Politécnica. Galdámez ha sido secretario departamental del Partido Patriota en Quiché, Guatemala (elPeriódico, 2014).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Galdámez fue reelecto diputado en las elecciones de 2015 por el departamento de Quiché por el PP.  (Congreso de la República, 2016). Dos meses después de ser electo, en 2016, renuncia a la bancada del PP y se traslada al partido del gobierno FCN-Nación (Investigación, 2018).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ha sido acusado de tráfico de influencias bajo el nombre de la empresa Agricultura o Mecanización de Tierras, S.A. -AGROMEC, S.A.-, de la cual es exportador de cardamomo bajo la marca Mayan Organic Cardamome. También ha trabajado para la Asociación de Apoyo y Desarrollo Rural –ASADER- y para FONAPAZ (elPeriódico, 2014).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Galdámez es señalado de ser el propietario de la empresa Biotecnologías Energéticas de Guatemala S.A. -Bionerg-, el cual obtuvo la adjudicación del puente sobre el río Cahaboncito en el valle del Polochic por parte del Ministerio de Comunicaciones, y aunque recibió Q227 millones el proyecto quedó inconcluso. Una de las asesoras de Galdámez en el Congreso era la representante legal (Investigación, 2015).
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    La empresa era propiedad de la familia Lorenzana, pero al ser extraditados a Estados Unidos vendieron la constructora al legislador (Investigación, 2015).
+                </p>
             </div>
         </div>
+        <div id="disqus_thread"></div>
+        <script>
+
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+            var disqus_config = function () {
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/estuardogaldamez.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "estuardogaldamez"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+
+            (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = 'https://sabesquienestucandidato.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
     </div>
 </section>
 
@@ -136,10 +149,12 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Plugin JavaScript -->
 <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
@@ -150,7 +165,6 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 
 <!-- Custom scripts for this template -->
 <script src="../js/agency.min.js"></script>
-<script id="dsq-count-scr" src="//sabesquienestucandidato.disqus.com/count.js" async></script>
 
 </body>
 

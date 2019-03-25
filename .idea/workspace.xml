@@ -2,10 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad8d2e99-4611-413c-9810-a6640f43457d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/candidatos/yaraargueta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/alejandrogiammatei.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/amilcarrivera.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/anibalgarcia.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/benitomorales.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/bettymarroquin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/blancaalfaro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/blancacolop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/carlosmorales.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/carlosperez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/claudiavaliente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/daniloroca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/edmondmulet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/edwinescobar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/ericocan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/estuardogaldamez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/guillermocastillo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/isaacfarchi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/javiercastillo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/jonathanmenkos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/jorgeperez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/josecabrera.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/josechea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/josefarias.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/lilianahernandez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/luisvelasquez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/manfredomarroquin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/manuelmaldonado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/manuelmartinez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/manuelsoto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/manuelvillacorta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/marioestrada.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/mariogonzalez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/mauricioradford.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/neftalilopez.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/oscarmorales.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/pabloceto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/pabloduarte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/ricardoflores.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/ricardosagastume.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/robertoarzu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/robertobarreto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/robertovilleda.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/sandratorres.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/thelmaaldana.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/thelmacabrera.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candidatos/zuryrios.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/convergencia.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/encuentro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/fcn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/fuerza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/humanista.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/libre.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/mlp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/pan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/ppt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/prosperidad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/semilla.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/todos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/ucn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/une.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/unidos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/unionista.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/urng.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/valor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/vamos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/victoria.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/viva.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partidos/winaq.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avanza.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/candidatos/julioestrada.php" beforeDir="false" afterPath="$PROJECT_DIR$/candidatos/julioestrada.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidatos/yaraargueta.php" beforeDir="false" afterPath="$PROJECT_DIR$/candidatos/yaraargueta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logo Sabes quién es tu Candidato.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partidos/avanza.php" beforeDir="false" afterPath="$PROJECT_DIR$/partidos/avanza.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/partidos/creo.php" beforeDir="false" afterPath="$PROJECT_DIR$/partidos/creo.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,43 +88,88 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/partidos/libre.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="209" column="69" selection-start-line="209" selection-start-column="69" selection-end-line="209" selection-end-column="69" />
+            <state relative-caret-position="255">
+              <caret line="71" column="26" lean-forward="true" selection-end-line="157" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partidos/mlp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partidos/creo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+            <state relative-caret-position="425">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/candidatos/julioestrada.php">
+        <entry file="file://$PROJECT_DIR$/partidos/encuentro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="980">
-              <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+            <state relative-caret-position="1187">
+              <caret line="80" column="176" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="176" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/candidatos/yaraargueta.php">
+        <entry file="file://$PROJECT_DIR$/partidos/fuerza.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="91" column="50" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+            <state relative-caret-position="-306">
+              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
               <folding>
-                <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#4;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#5;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#6;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partidos/humanista.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="807">
+              <caret line="66" column="85" lean-forward="true" selection-start-line="66" selection-start-column="85" selection-end-line="66" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partidos/avanza.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partidos/convergencia.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1238">
+              <caret line="87" column="26" lean-forward="true" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partidos/fcn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="898">
+              <caret line="66" column="82" lean-forward="true" selection-start-line="66" selection-start-column="82" selection-end-line="66" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -71,6 +187,7 @@
       <find>port</find>
       <find>contac</find>
       <find>biene</find>
+      <find>nav-link</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -84,18 +201,32 @@
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/avanza.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" />
+        <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/candidatos/julioestrada.php" />
-        <option value="$PROJECT_DIR$/candidatos/yaraargueta.php" />
         <option value="$PROJECT_DIR$/partidos/creo.php" />
+        <option value="$PROJECT_DIR$/candidatos/yaraargueta.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/candidatos/manfredomarroquin.php" />
+        <option value="$PROJECT_DIR$/partidos/avanza.php" />
+        <option value="$PROJECT_DIR$/partidos/convergencia.php" />
+        <option value="$PROJECT_DIR$/partidos/encuentro.php" />
+        <option value="$PROJECT_DIR$/partidos/fcn.php" />
+        <option value="$PROJECT_DIR$/candidatos/estuardogaldamez.php" />
+        <option value="$PROJECT_DIR$/partidos/humanista.php" />
+        <option value="$PROJECT_DIR$/candidatos/edmondmulet.php" />
+        <option value="$PROJECT_DIR$/candidatos/anibalgarcia.php" />
+        <option value="$PROJECT_DIR$/partidos/libre.php" />
+        <option value="$PROJECT_DIR$/partidos/fuerza.php" />
+        <option value="$PROJECT_DIR$/partidos/mlp.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="33" />
-    <option name="width" value="1929" />
-    <option name="height" value="1014" />
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -117,7 +248,49 @@
             <path>
               <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
               <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
               <item name="partidos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sabesquienestucandidato" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabesquienestucandidato" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery-easing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,12 +301,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AngelAriel_RDN" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\sabesquienestucandidato\candidatos" />
+      <recent name="C:\wamp64\www\sabesquienestucandidato\partidos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -163,22 +337,22 @@
       <workItem from="1547512049646" duration="2389000" />
       <workItem from="1548005939088" duration="49000" />
       <workItem from="1548039583910" duration="9461000" />
-      <workItem from="1553046323198" duration="3156000" />
+      <workItem from="1553046323198" duration="3893000" />
+      <workItem from="1553375425472" duration="28781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22651000" />
+    <option name="totallyTimeSpent" value="52169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25479743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20948827" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -188,30 +362,31 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20948827" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,66 +397,163 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/agency.scss">
+    <entry file="file://$PROJECT_DIR$/candidatos/lilianahernandez.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_navbar.scss">
+    <entry file="file://$PROJECT_DIR$/candidatos/bettymarroquin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/benitomorales.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/claudiavaliente.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/carlosperez.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/pabloceto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/blancacolop.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/luisvelasquez.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/manuelsoto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/josechea.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/mariogonzalez.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/robertoarzu.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/josefarias.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/amilcarrivera.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/ericocan.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/oscarmorales.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/jorgeperez.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/edwinescobar.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/blancaalfaro.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/daniloroca.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/thelmacabrera.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/neftalilopez.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/thelmaaldana.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/jonathanmenkos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/alejandrogiammatei.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/guillermocastillo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/isaacfarchi.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/manuelmartinez.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/ricardoflores.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba.html">
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="140" column="57" lean-forward="true" selection-start-line="140" selection-start-column="57" selection-end-line="140" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="1160" column="27" selection-end-line="1288" />
-          <folding />
+        <state relative-caret-position="-9316" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/avanza.php">
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="172" column="36" selection-start-line="172" selection-start-column="36" selection-end-line="172" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/candidatos/creo.php" />
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="209" column="69" selection-start-line="209" selection-start-column="69" selection-end-line="209" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/candidatos/julioestrada.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        <state relative-caret-position="315">
+          <caret line="4081" column="2" selection-start-line="4081" selection-start-column="2" selection-end-line="4081" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/candidatos/yaraargueta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="91" column="50" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18196">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/estuardogaldamez.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="49" column="56" lean-forward="true" selection-start-line="49" selection-start-column="56" selection-end-line="49" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/edmondmulet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="162" column="68" lean-forward="true" selection-start-line="162" selection-start-column="68" selection-end-line="162" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#4;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -291,10 +563,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/manfredomarroquin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="119" column="17" lean-forward="true" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/julioestrada.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="60" column="35" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candidatos/anibalgarcia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/avanza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/convergencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1238">
+          <caret line="87" column="26" lean-forward="true" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partidos/creo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        <state relative-caret-position="425">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/encuentro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1187">
+          <caret line="80" column="176" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/fcn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="898">
+          <caret line="66" column="82" lean-forward="true" selection-start-line="66" selection-start-column="82" selection-end-line="66" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/fuerza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/humanista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="66" column="85" lean-forward="true" selection-start-line="66" selection-start-column="85" selection-end-line="66" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/libre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="71" column="26" lean-forward="true" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partidos/mlp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
         </state>
       </provider>
     </entry>

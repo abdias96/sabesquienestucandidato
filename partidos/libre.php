@@ -13,7 +13,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CREO</title>
+    <title>LIBRE</title>
     <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
@@ -62,34 +62,34 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/julioestrada.php#disqus_thread" data-disqus-identifier="julioestrada">
+                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/anibalgarcia.php#disqus_thread" data-disqus-identifier="anibalgarcia">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/julioestrada.php">
+                <a class="portfolio-link text-center" href="../candidatos/anibalgarcia.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/juliohectorestrada.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/anibalgarcia.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Julio Héctor Estrada Domínguez</h4>
+                    <h4>Rodolfo Aníbal García Hernández</h4>
                     <p class="text-muted">Candidato a presidente</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/yaraarguera.php#disqus_thread" data-disqus-identifier="yaraargueta">
+                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/carlosperez.php#disqus_thread" data-disqus-identifier="carlosperez">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php">
+                <a class="portfolio-link text-center" href="#">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/yaraargueta.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/carlosperez.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Yara Emmanuella Argueta Castañeda</h4>
+                    <h4>Carlos Roberto Pérez Gaitán</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>
                 </div>
             </div>

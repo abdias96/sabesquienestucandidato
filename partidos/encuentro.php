@@ -13,7 +13,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CREO</title>
+    <title>ENCUENTRO</title>
     <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
@@ -62,34 +62,34 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/julioestrada.php#disqus_thread" data-disqus-identifier="julioestrada">
+                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/manfredomarroquin.php#disqus_thread" data-disqus-identifier="manfredomarroquin">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/julioestrada.php">
+                <a class="portfolio-link text-center" href="../candidatos/manfredomarroquin.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/juliohectorestrada.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/manfredomarroquin.png" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Julio Héctor Estrada Domínguez</h4>
+                    <h4>Manfredo Marroquín</h4>
                     <p class="text-muted">Candidato a presidente</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/yaraarguera.php#disqus_thread" data-disqus-identifier="yaraargueta">
+                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/oscarmorales.php#disqus_thread" data-disqus-identifier="oscarmorales">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php">
+                <a class="portfolio-link text-center" href="#">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/yaraargueta.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/oscarmorales.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Yara Emmanuella Argueta Castañeda</h4>
+                    <h4>Óscar Adolfo Morales Montúfar</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>
                 </div>
             </div>
@@ -139,7 +139,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Plugin JavaScript -->
 <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>

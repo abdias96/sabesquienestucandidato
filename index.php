@@ -1,3 +1,8 @@
+<?php
+header('Access-Control-Allow-Origin: *');
+header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,6 +14,7 @@
     <meta name="author" content="">
 
     <title>¿Sabés quién es tu candidato?</title>
+    <link rel="shortcut icon" href="img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -166,7 +172,7 @@
         </div>
         <div class="row">
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" href="avanza.php">
+                <a class="portfolio-link text-center" href="partidos/avanza.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -193,7 +199,7 @@
                 </div>
             </div-->
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal3">
+                <a class="portfolio-link text-center" href="partidos/convergencia.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -221,7 +227,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal5">
+                <a class="portfolio-link text-center" href="partidos/encuentro.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -235,7 +241,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/fcn.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -249,7 +255,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/fuerza.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -263,7 +269,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/humanista.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -277,7 +283,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/libre.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -291,7 +297,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/mlp.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -318,7 +324,7 @@
                 </div>
             </div-->
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/pan.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -345,7 +351,7 @@
                 </div>
             </div-->
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/ppt.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -359,7 +365,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/prosperidad.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -373,7 +379,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/semilla.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -387,7 +393,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/todos.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -396,12 +402,12 @@
                     <img class="img-fluid" src="img/partidos/todos.png" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>TODOS</h4>
+                    <h4>Todos</h4>
                     <!--p class="text-muted">Website Design</p-->
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/ucn.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -415,7 +421,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/une.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -429,7 +435,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/unidos.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -443,7 +449,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/unionista.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -457,7 +463,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/urng.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -471,7 +477,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/valor.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -485,7 +491,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/vamos.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -499,7 +505,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/victoria.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -513,7 +519,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/viva.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -522,12 +528,12 @@
                     <img class="img-fluid" src="img/partidos/viva.png" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>VIVA</h4>
+                    <h4>Viva</h4>
                     <!--p class="text-muted">Website Design</p-->
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 portfolio-item">
-                <a class="portfolio-link text-center" data-toggle="modal" href="#portfolioModal6">
+                <a class="portfolio-link text-center" href="partidos/winaq.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
@@ -536,7 +542,7 @@
                     <img class="img-fluid" src="img/partidos/winaq.png" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>WINAQ</h4>
+                    <h4>Winaq</h4>
                     <!--p class="text-muted">Website Design</p-->
                 </div>
             </div>

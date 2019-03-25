@@ -13,7 +13,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Yara Emmanuella Argueta Castañeda</title>
+    <title>Edmond Mulet Lesiur</title>
     <link rel="shortcut icon" href="../img/logo.jpg">
 
     <!-- Bootstrap core CSS -->
@@ -47,7 +47,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
                     <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/creo.php">Creo</a>
+                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../partidos/humanista.php">Humanista</a>
                 </li>
             </ul>
         </div>
@@ -59,7 +59,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Yara Emmanuella Argueta Castañeda</h2>
+                <h2 class="section-heading text-uppercase">Edmond Mulet Lesiur</h2>
                 <!--h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3-->
             </div>
         </div>
@@ -67,25 +67,25 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Durante 11 años fue CEO de Grupo Solid, empresa líder en el mercado de Pinturas y Recubrimientos en Centroamérica y Panamá.  Sus operaciones incluyen fuerza de ventas, red de distribución y bodegas en la región, y dos plantas de manufactura en Guatemala.  Grupo Solid tiene una amplia red de distribución de más de 6,400 ferreterías independientes CORONA, 80 tiendas propias de pintura PALETA, atiende a las 658 empresas más importantes que operan en la región a través del canal SYTEC Business to Business, y exporta sus productos a Belice, Sur de México y el Caribe.  Grupo Solid cuenta con 1,500 colaboradores.  Durante su gestión como CEO, Grupo Solid llegó a ser líder en el mercado centroamericano, alcanzando niveles de rentabilidad de talla mundial.
+                    Edmond Mulet Lesiur (Guatemala,13 de marzo de 1951) es un abogado, periodista, político y diplomático guatemalteco (Guatemaltecos Notables, 2013).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    En marzo del 2016 Yara decide retirarse como CEO pasando a formar parte de la Junta Directiva de la misma Corporación como director independiente, y a cargo de los proyectos de fusiones, adquisiciones y expansión, como asesor externo.  También apoya a otras empresas e instituciones en sus procesos estratégicos y proyectos específicos.
+                    Mulet es abogado por a Universidad Mariano Gálvez. En 1961, comenzó su carrera como periodista en el Diario de Centro América, donde fue corrector, reportero, editor y columnista. También ha sido columnista en medios como el semanario ¡Alerta!, la revista Crónica y el diario elPeriódico (Guatemaltecos Notables, 2013).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    En el 2015 creó la Fundación CAVIDA – Cambio de Vida, la cual otorga financiamiento a jóvenes talentosos de escasos recursos, pagando el costo de sus estudios y brindándoles la oportunidad de graduarse en las mejores universidades nacionales y del extranjero.  Actualmente Yara dedica parte de su tiempo al crecimiento de CAVIDA.
+                    Fue diputado en 1982, luego reelecto para el período legislativo de 1986 a 1991. En 1990, fue electo una vez más y presidente del Congreso de la República en 1992. Su participación política la realizó por medio del partido Unión del Centro Nacional -UCN- (Guatemaltecos Notables, 2013).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Yara fue nombrada Young Global Leader (Joven Líder Mundial) por el World Economic Forum – WEF (Foro Económico Mundial) en el 2011.  Fue reconocida como una de las cinco mujeres más admiradas en Centro América por la revista de negocios Estrategia y Negocios, por tres años consecutivos (2008, 2009 y 2010) y como una de las mujeres más poderosas de Centroamérica por la revista Forbes Centroamérica en 2015 y 2016.  Nombrada Profesional Distinguida del Año 2013 por INCAE Business School.
+                    Siendo embajador en Washington, Estados Unidos, promovió el movimiento Resistencia Internacional Guatemalteca Organizada, que tenía como objetivo conformar un frente en el extranjero contra el golpe de Estado de Jorge Serrano Elías (Guatemaltecos Notables, 2013).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Directora del Consejo de Fiduciarios de la Fundación para El Desarrollo de Guatemala – FUNDESA.  Miembro del Central America Leadership Initiative – CALI /Aspen Global Network (Iniciativa de Liderazgo Centroamericano). Presidente y mentora del capítulo Voces Vitales Guatemala (2015 y 2016).  Miembro del Comité Nacional de INCAE Business School en Guatemala.  Miembro del Group of Fifty Millennium Leader – ML50 (2011 y 2012). Directora de Ingeniería Industrial de la Universidad Rafael Landívar (2004-2005) y catedrática de administración de empresas y mercadeo (2000 a 2003).  Delegada ante el Tribunal Supremo Electoral / Junta Electoral Distrito Central, en las últimas cuatro elecciones, manejando el Centro de Votación más grande del departamento de Guatemala.
+                    Fue embajador de Guatemala ante la Unión Europea, el Reino de Bélgica y en el Gran Ducado de Luxemburgo, de 2000 a 2005. Participó en el proceso de paz de Centroamérica, tanto en los Acuerdos de Esquipulas, como en las negociaciones de paz en Guatemala (Guatemaltecos Notables, 2013).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Yara tiene un MBA de Incae Business School con Alta Distinción y Valedictor, y es Ingeniera Industrial de la Universidad Rafael Landívar, Summa Cum Laude.  Otros estudios realizados en Harvard Kennedy School y en Stanford Graduate School of Business.
+                    Fue jefe de la Misión de Estabilización de las Naciones Unidas en Haití MINUSTAH en 2006 y 2010. En Haití apoyó durante el terremoto como parte de esta misión. Desde junio de 2011 es subsecretario general adjunto de las Operaciones de Mantenimiento de la Paz de las Naciones Unidadas -ONU- (Guatemaltecos Notables, 2013).
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Yara es soltera, Guatemalteca y tiene 42 años.
+                    Mulet fue secretario General Adjunto de las Naciones Unidas y jefe de Gabinete del Secretario General 2014-2016. Además fue condecorado con la Orden Isabel La Católica, por el presidente del Español, Mariano Rajoy, en la sede de la ONU en Nueva York, en diciembre de 2016 (Corado, 2016).
                 </p>
             </div>
         </div>
@@ -97,8 +97,8 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
             var disqus_config = function () {
-                this.page.url = "https://sabesquienestucandidato.com/candidatos/yaraargueta.php";  // Replace PAGE_URL with your page's canonical URL variable
-                this.page.identifier = "yaraargueta"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                this.page.url = "https://sabesquienestucandidato.com/candidatos/edmondmulet.php";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "edmondmulet"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
             };
 
             (function() { // DON'T EDIT BELOW THIS LINE
@@ -152,6 +152,8 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         </div>
     </div>
 </footer>
+<script>
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>

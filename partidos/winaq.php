@@ -1,8 +1,3 @@
-<?php
-header('Access-Control-Allow-Origin: *');
-header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
-header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,8 +8,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CREO</title>
-    <link rel="shortcut icon" href="../img/logo.jpg">
+    <title>AVANZA</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -36,7 +30,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -44,7 +38,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
                 <li class="nav-item">
-                    <a class="js-scroll-trigger" style="display: block; padding: 0.5rem 1rem;" href="../index.php">Inicio</a>
+                    <a class="nav-link js-scroll-trigger" style="color: #132A76;" href="../index.php">Inicio</a>
                 </li>
             </ul>
         </div>
@@ -62,34 +56,34 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/julioestrada.php#disqus_thread" data-disqus-identifier="julioestrada">
+                <a class="portfolio-link text-center" href="../candidatos/daniloroca.php#disqus_thread">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/julioestrada.php">
+                <a class="portfolio-link text-center" href="../candidatos/daniloroca.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/juliohectorestrada.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/daniloroca.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Julio Héctor Estrada Domínguez</h4>
+                    <h4>Daniel Julián Roca Barillas</h4>
                     <p class="text-muted">Candidato a presidente</p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 portfolio-item">
-                <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/yaraarguera.php#disqus_thread" data-disqus-identifier="yaraargueta">
+                <a class="portfolio-link text-center" href="../candidatos/manuelmartinez.php#disqus_thread">
                 </a>
-                <a class="portfolio-link text-center" href="../candidatos/yaraargueta.php">
+                <a class="portfolio-link text-center" href="../candidatos/manuelmartinez.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/yaraargueta.jpg" alt="">
+                    <img class="img-fluid" src="../img/candidatos/manuelmartinez.jpg" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Yara Emmanuella Argueta Castañeda</h4>
+                    <h4>Manuel María Martínez Revolorio</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>
                 </div>
             </div>
@@ -139,7 +133,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 
 <!-- Bootstrap core JavaScript -->
 <script src="../vendor/jquery/jquery.min.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Plugin JavaScript -->
 <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
