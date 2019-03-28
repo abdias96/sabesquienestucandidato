@@ -36,7 +36,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -64,14 +64,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/mauricioradford.php#disqus_thread" data-disqus-identifier="mauricioradford">
                 </a>
-                <a class="portfolio-link text-center" href="#">
+                <!--a class="portfolio-link text-center" href="#">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
                     <img class="img-fluid" src="../img/candidatos/mauricioradford.jpg" alt="">
-                </a>
+                </a-->
                 <div class="portfolio-caption">
                     <h4>José Mauricio Radford Hernández</h4>
                     <p class="text-muted">Candidato a presidente</p>
@@ -80,14 +80,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/manuelmaldonado.php#disqus_thread" data-disqus-identifier="manuelmaldonado">
                 </a>
-                <a class="portfolio-link text-center" href="#">
+                <!--a class="portfolio-link text-center" href="#">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
                     <img class="img-fluid" src="../img/candidatos/manuelmaldonado.jpg" alt="">
-                </a>
+                </a-->
                 <div class="portfolio-caption">
                     <h4>Manuel Abundio Maldonado</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>

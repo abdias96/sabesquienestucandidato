@@ -36,7 +36,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -67,19 +67,97 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Rodolfo Aníbal García Hernández es un político guatemalteco. Exdiputado al Congreso de la República de Guatemala. Es el Secretario General del partido Movimiento Nueva República -MNR- (Redacción Web, 2015).
+                    Nacido en San Pedro Las Huertas, Antigua Guatemala, un 14
+                    de septiembre de 1,967. Sus padres son el sastre Rodolfo
+                    García Peréira y la ama de casa Francisca Hernández de
+                    García. contajo matrimonio con Irma Azucena Hidalgo
+                    Baños y es padre de 5 hijos.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    García fue electo diputado al Congreso de la República, por el Distrito Central para el período 2008 – 2012 (Congreso de la República. 2015).
+                    Antigueño de corazón, Maestro de Educación Primaria,
+                    Abogado y Notario con estudios de maestría en Derecho
+                    Constitucional por la Universidad de San Carlos de Guatemala. Ha sido docente universitario y consultor de institu- ciones nacionales e internacionales.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Fue el fundador del partido Movimiento Nueva República en el 2009 y el Tribunal Supremo Electoral -TSE- legalizó la inscripción del MNR como partido en mayo de 2012. El partido se define como democrático, pluricultural, multiétnico, revolucionario, progresista, incluyente, de la nueva izquierda  (Redacción, Web).
+                    Es fruto de la educación pública, ya que fue becado por
+                    parte de la Escuela Normal Pedro Molina y en la Universidad
+                    de San Carlos de Guatemala.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    El 29 de mayo de 2011 la URNG proclamó al binomio presidencial integrado por Rigoberta Menchú de WINAQ y Aníbal García, del MNR -en ese entonces comité pro formación-, como candidatos a presidente y vicepresidente respetivamente. El binomio alcanzó 3.26 % de los votos válidos (Asies, 2012).
+                    Fue dirigente estudiantil en la Facultad de Derecho de la
+                    Universidad San Carlos de Guatemala, en donde en 1992
+                    fue electo presidente de la Asociación de Estudiantes de
+                    DERECHO.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Para las elecciones generales del 6 de septiembre de 2015 el partido MNR obtuvo el 0.59% de los votos válidos en la elección presidencial, el binomio formado por Anibal García y Pedro Rafael Maldonado Flores obtuvieron 28,383 votos (Sánchez, 2015).
+                    Es uno de los mejores abogados del país, y se desempeña
+                    en las materias laboral y constitucional.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    A los 39 años fue electo Diputado por la ciudad de Guatemala. Destacó impulsando la agenda de seguridad y justicia, la lucha en contra de la corrupción, en contra del
+                    manejo irresponsable de los bienes y recursos naturales, la
+                    defensa del ambiente y las áreas protegidas.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    También Fiscalizó valientemente los deicomisos de Arzú,
+                    la prórroga del contrato petrolero a cargo de Perenco, al
+                    gobierno del Presidente Colom, el transurbano, la construcción anómala de la Franja Transversal del Norte, etc. En total
+                    fue ponente de 12 iniciativas de ley todas de alta importancia y trascendencia.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Fue un candidato presidencial excepcional en el año 2015
+                    del partido Movimiento Nueva República, el cual fundó y
+                    fue su secretario general siendo hoy en día uno de los pocos
+                    secretarios generales de partidos políticos que no está
+                    siendo señalado ni procesado por financiamiento ilícito ni
+                    corrupción.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En el año 2016 junto a destacados ciudadanos decidió
+                    fundar el partido LIBRE del cual es dirigente nacional y coordinador político.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Libre es un partido nuevo de carácter PROGRESISTA, cuenta
+                    con un gran arrastre en la ciudadanía, ya que desde su
+                    fundación ha logrado una organización impresionante y
+                    cuenta con lideres de gran capacidad a nivel nacional.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ha protagonizado actos cívicos y ciudadanos valientes y de
+                    alto impacto nacional como los siguientes:
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Planteó el antejuicio que inició con la caída de la ex Vicepresidenta Roxana Baldetti.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Enfrentó desde el Congreso de la República a los políticos
+                    de la corrupción y el nanciamiento ilícito.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ha enfrentado con acciones políticas y legales al Gobierno
+                    del Presidente Jimmy Morales y al pacto de corruptos del
+                    Congreso de la República.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Denunció ante el Ministerio Público uno de los casos de
+                    corrupción más grandes que registra la historia en Guatemala, el cual fue el del TRANSURBANO.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Ha sido nombrado como egresado distinguido de sus
+                    centros de estudio: la Escuela Normal Pedro Molina y la
+                    Escuela Pública de su natal San Pedro Las Huertas, en
+                    Antigua Guatemala.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Su sensibilidad social, humildad y carisma, junto a su preparación académica, conocimiento de la ley, de la administración pública y una ORATORIA VALIENTE Y CONTUNDENTE
+                    que ha forjado desde su experiencia y formación profesional, como abogado y como Diputado le convierten en la
+                    potente voz y consciencia que este país necesita para ser
+                    LIBRE.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Es un político de larga y fecunda trayectoria, pero excepcionalmente es un político al que no se le puede señalar
+                    NINGUN ACTO DE CORRUPCION y por el contrario su vida es
+                    una acción permanente en defensa de los intereses nacionales y en favor de la justicia, el desarrollo y la paz.
                 </p>
             </div>
         </div>

@@ -80,7 +80,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/bettymarroquin.php#disqus_thread" data-disqus-identifier="bettymarroquin">
                 </a>
-                <a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/bettymarroquin.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>

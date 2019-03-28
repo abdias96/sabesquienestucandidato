@@ -36,7 +36,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">¿Sabés quién es tu candidato?</a>
+        <a class="navbar-brand js-scroll-trigger" href="../index.php">¿Sabés quién es tu candidato?</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
@@ -67,19 +67,52 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-12 comment">
                 <!--h4 class="service-heading">E-Commerce</h4-->
                 <p class="text-muted" style="text-align: justify;">
-                    Alejandro Eduardo Giammattei Falla (Guatemala, 9 de marzo 1956) es un médico y político guatemalteco. Se desempeñó como el director del Sistema Penitenciario de Guatemala en 2006 (Elecciones de Guatemala, 2011).
+                    Médico de profesión, nació el el 9 de marzo de 1956 en Ciudad de Guatemala,
+                    es un político guatemalteco que ha destacado por su arduo trabajo en la
+                    construcción de una Guatemala diferente y digna para todos sus ciudadanos.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Giammattei se graduó de Médico y Cirujano de la Universidad de San Carlos de Guatemala en 1980. Ha trabajado como consultor temporal de la Organización Panamericana de la Salud -entre los años 1982 y 1986-, fue parte del Cuerpo de Bomberos Municipales de Guatemala. En 1986 fue director de Transportes Públicos Urbanos de la Municipalidad de Guatemala y gerente de la Empresa Municipal de Agua en 1991 (Elecciones Guatemala, 2011).
+                    Realizó sus estudios primarios y secundarios en el liceo Guatemala y finalizó su
+                    carrera de medicina en la Universidad de San Carlos el 31 de octubre de 1980.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Se postuló como candidato a alcalde en 1999 y en 2003. Fue director del Sistema Penitenciario en 2006 y candidato presidencial en las elecciones de 2007 -por el partido –Gran Alianza Nacional– (Elecciones Guatemala, 2011).
+                    En su carrera profesional ha sido consultor de varias organizaciones dentro de
+                    las cuales destaca la Organización Panamericana de la Salud terminando su
+                    servicio en el año 1986.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    Giammattei fue incriminado en el Caso Pavón en 2006, por el cual tuvo un largo proceso y fue encarcelado por 10 meses de prisión preventiva en el cuartel militar Mariscal Zabala, por la supuesta ejecución extrajudicial de siete reos, cuando era director del Sistema Penitenciario (Noticias.com, 2011).
+                    El Dr. Alejandro Giammattei también formó parte Cuerpo de Bomberos
+                    Municipales de Guatemala destacándose por su servicio al ciudadano
+                    guatemalteco hasta el año de 1990.
                 </p>
                 <p class="text-muted" style="text-align: justify;">
-                    En las elecciones de  2011, pocos días antes de vencer el plazo para la inscripción de candidatos en el Registro de Ciudadanos el partico Centro de Acción Social -CASA- anunció la candidatura presidencial de Alejandro Giammattei, y como candidato vicepresidencial a Óscar Alberto Zamora Solano. CASA obtuvo 46 875 votos en la elección presidencial y por no lograr superar el 5% de los votos válidos emitidos, el partido fue cancelado (Asies, 2012).
+                    Se suma también la labor como director de la organización de Transportes
+                    Públicos Urbanos de la Municipalidad de Guatemala y durante varios años
+                    fungió en el cargo de Gerente general de la Empresa Municipal de Agua.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Su actividad Política inicia en los años de 1985, como coordinador general de los
+                    procesos electorales repitiéndolo en los años 1988 y 1997. Gracias a esas
+                    actividades logró una relevancia a nivel nacional e internacional.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Como profesional, del año 2006 al 2008 ocupó el cargo de Director del Sistema
+                    Penitenciario de Guatemala.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    En sus participaciones electorales Alejandro Giammattei participó en las
+                    elecciones para alcaldía metropolitana de Guatemala en los años de 1999 y
+                    2003
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    También ha participado tres veces por la presidencia de la república y en sus
+                    participaciones destacan un tercer lugar en el año 2007 y un cuarto lugar en las
+                    contiendas electorales del año 2015.
+                </p>
+                <p class="text-muted" style="text-align: justify;">
+                    Actualmente es Candidato Presidencial del Partido VAMOS Por una Guatemala
+                    Diferente, siendo su máximo dirigente, su visión siempre se ha destacado por
+                    trabajar para construir la nación que tanto hemos soñado.
                 </p>
             </div>
         </div>
