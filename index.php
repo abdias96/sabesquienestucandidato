@@ -155,7 +155,7 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
                     No estoy ligado a ningún partido político, entendamos que no se trata de ser de izquierda o derecha, se trata de nuestro futuro como país.
                     Si mi introducción generó algún tipo molestia, recuerda que todos estamos en el derecho de opinar y pido disculpas si en algún momento generalicé a todos, en ningún momento mi intención es juzgar, solo puse ejemplos para que tomemos conciencia de como nos hemos portado como ciudadanos.
 
-                    PD. Puedes invitar a un café si quieres. :)</p>
+                </p>
             </div>
         </div>
     </div>
