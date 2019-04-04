@@ -64,14 +64,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/robertoarzu.php#disqus_thread" data-disqus-identifier="robertoarzu">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/robertoarzu.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
                     <img class="img-fluid" src="../img/candidatos/robertoarzu.jpg" alt="">
-                </a-->
+                </a>
                 <div class="portfolio-caption">
                     <h4>Roberto Arzú García-Granados</h4>
                     <p class="text-muted">Candidato a presidente</p>
@@ -80,14 +80,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/josefarias.php#disqus_thread" data-disqus-identifier="josefarias">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/josefarias.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/josefarias.jpg" alt="">
-                </a-->
+                    <img class="img-fluid" src="../img/candidatos/josefarias.PNG" alt="">
+                </a>
                 <div class="portfolio-caption">
                     <h4>José Antonio Farias</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>

@@ -64,14 +64,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/manuelvillacorta.php#disqus_thread" data-disqus-identifier="manuelvillacorta">
                 </a>
-                <!--a class="portfolio-link text-center" href="">
+                <a class="portfolio-link text-center" href="../candidatos/manuelvillacorta.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/manuelvillacorta.jpg" alt="">
-                </a-->
+                    <img class="img-fluid" src="../img/candidatos/manuelvillacorta.PNG" alt="">
+                </a>
                 <div class="portfolio-caption">
                     <h4>Manuel Ricardo Villacorta Orantes</h4>
                     <p class="text-muted">Candidato a presidente</p>
@@ -80,14 +80,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/lilianahernandez.php#disqus_thread" data-disqus-identifier="lilianahernandez">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/lilianahernandez.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/lilianahernandez.jpg" alt="">
-                </a-->
+                    <img class="img-fluid" src="../img/candidatos/lilianahernandez.PNG" alt="">
+                </a>
                 <div class="portfolio-caption">
                     <h4>Liliana Izabel Hernández Estrada</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>

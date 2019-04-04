@@ -64,14 +64,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/pabloduarte.php#disqus_thread" data-disqus-identifier="pabloduarte">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/pabloduarte.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
                     <img class="img-fluid" src="../img/candidatos/pabloduarte.jpg" alt="">
-                </a-->
+                </a>
                 <div class="portfolio-caption">
                     <h4>Pablo Manuel Duarte Saenz De Tejada</h4>
                     <p class="text-muted">Candidato a presidente</p>
@@ -80,14 +80,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/robertovilleda.php#disqus_thread" data-disqus-identifier="robertovilleda">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/robertovilleda.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/robertovilleda.jpg" alt="">
-                </a-->
+                    <img class="img-fluid" src="../img/candidatos/robertovilleda.PNG" alt="">
+                </a>
                 <div class="portfolio-caption">
                     <h4>Roberto Villeda Arguedas</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>

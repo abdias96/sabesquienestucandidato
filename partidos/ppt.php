@@ -64,14 +64,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/josechea.php#disqus_thread" data-disqus-identifier="josechea">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/josechea.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
                     <img class="img-fluid" src="../img/candidatos/josechea.jpg" alt="">
-                </a-->
+                </a>
                 <div class="portfolio-caption">
                     <h4>José Luis Chea Uŕruela</h4>
                     <p class="text-muted">Candidato a presidente</p>
@@ -80,14 +80,14 @@ header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE');
             <div class="col-md-6 col-sm-6 portfolio-item">
                 <a class="portfolio-link text-center" href="https://sabesquienestucandidato.com/candidatos/mariogonzalez.php#disqus_thread" data-disqus-identifier="mariogonzalez">
                 </a>
-                <!--a class="portfolio-link text-center" href="#">
+                <a class="portfolio-link text-center" href="../candidatos/mariogonzalez.php">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fas fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img class="img-fluid" src="../img/candidatos/mariogonzalez.jpg" alt="">
-                </a-->
+                    <img class="img-fluid" src="../img/candidatos/mariogonzalez.PNG" alt="">
+                </a>
                 <div class="portfolio-caption">
                     <h4>Mario Guillermo González Flores</h4>
                     <p class="text-muted">Candidato a vicepresidente</p>
